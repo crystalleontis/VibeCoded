@@ -91,6 +91,12 @@ Be explicit with clear and specific instructions in your prompts." - Google AI F
 
 - Token Usage and data limitations:
 
+Understanding output token limits is crucial for anyone working with AI models — whether you’re a developer, a business leader, or a technology enthusiast. These limits ensure that AI systems run efficiently, remain focused, and manage resources effectively. While it might seem appealing to have an infinite output, current technological and economic realities make token limits both a necessity and a practical compromise.
+
+As the technology evolves, so too might these limits. For now, recognizing and working within these constraints will help you better harness the power of AI in your projects and enterprise solutions.
+
+Whether you’re using OpenAI’s GPT, Meta’s LLaMA, Google Vertex AI, or AWS’s models, this limit is a key factor in how these tools operate. You might wonder if enterprise accounts or different providers offer higher limits. Generally, the output token limit is determined by the model’s design rather than the account type. Whether you have an individual or an enterprise account, the technical constraints remain the same. However, some enterprise agreements might provide access to models with larger context windows or additional features — but within the bounds set by the underlying technology.
+
 - AI downtime/regressions, live bugs:
 
 AI sites currently exist (such as https://www.braintrust.dev/learn/ai-monitoring/) that provide live realtime solutions to these problems.
