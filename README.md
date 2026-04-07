@@ -98,6 +98,7 @@ https://www.promptarmor.com/
 Someone who creates AI tools for fun is often called an AI tinkerer or enthusiast, representing a hands-on approach to exploring new technology. Other common terms include AI hobbyist, creator, or prompt engineer (if focused on prompt-based tools), with synthographer sometimes used for AI art creators. 
 
 Here are the most common terms based on different types of "making":
+
 -- AI Tinkerer / Enthusiast: The most common term for hobbyists experimenting, building projects, and exploring AI capabilities in their free time.
 -- AI Creator / Developer: A broad term for anyone building AI-powered applications, apps, or models.
 -- Prompt Engineer / Prompt Master: Refers specifically to those who build tools or content by crafting complex, specialized AI prompts.
@@ -109,5 +110,3 @@ Many in the community prefer the term "tinkerer" as it captures the playful, low
 Tools that currently exist, like braintrust above (and any of mine for that matter), are difficult to "trust" without being given a full scope of the maker type, hardware and software stack, AI model and tool stack, personal AI preferences and global settings, personal AI training for recent events, update logs, etc... which would ultamitely give away the "secret sauce" opening the door to copycats, direct rips, etc... 
 
 README SECTION 3: Live github tools made by me and my robot friends
-
-1) 
