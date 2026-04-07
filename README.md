@@ -32,9 +32,13 @@ AI tools often present falsehoods as facts, such as fabricating legal cases, new
 AI hallucinations—where models confidently generate false, misleading, or nonsensical information—stem from probabilistic training, data gaps, and over-optimization for engagement. Key issues include data bias (leading to prejudiced outputs), factual inaccuracies, and hallucinations in image generation and autonomous driving, which pose significant safety and misinformation risks. Lastly, bad actors can intentionally manipulate AI, causing it to misclassify information or generate incorrect outputs (e.g., in cyber security or image recognition). 
 
 Causes of AI Problems:
+
 -- Probabilistic Nature: LLMs predict the most likely next token, not the verified truth.
+
 -- Poor Training Data: Incomplete or low-quality data ("garbage in, garbage out").
+
 -- Overfitting: Memorizing training data prevents effective generalization.
+
 -- Failure in Retrieval Augmented Generation (RAG): When models pull from external sources, they may Misinterpret or fail to fact-check the data.
 
 - Data Fabrication:
@@ -100,9 +104,13 @@ Someone who creates AI tools for fun is often called an AI tinkerer or enthusias
 Here are the most common terms based on different types of "making":
 
 -- AI Tinkerer / Enthusiast: The most common term for hobbyists experimenting, building projects, and exploring AI capabilities in their free time.
+
 -- AI Creator / Developer: A broad term for anyone building AI-powered applications, apps, or models.
+
 -- Prompt Engineer / Prompt Master: Refers specifically to those who build tools or content by crafting complex, specialized AI prompts.
+
 -- Synthographer / AI Artist: Used for individuals focused on generating AI art or visual media.
+
 -- AI Operator / Technician: A more technical term sometimes used to emphasize that the user is running the AI tool, rather than creating the underlying model. 
 
 Many in the community prefer the term "tinkerer" as it captures the playful, low-stakes nature of doing it for fun, often leveraging open-source, inexpensive, or free AI/ML tools.
