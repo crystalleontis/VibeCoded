@@ -40,3 +40,7 @@ Provide accurate and up-to-date context in your prompts, especially for topics t
 Keep chats focused by starting a new conversation for each specific task. This also helps to reset the context window if a conversation becomes too long or the output starts to feel off topic.
 
 Be explicit with clear and specific instructions in your prompts." - Google AI Fundamentals Course 04/2026
+
+3) Different models have different strengths:
+
+"Different AI models have different strengths, ​depending on how they were trained ​and how their learning was refined. ​Some models are really good ​at quickly providing all-around help. ​Other models might be best for advanced tasks ​like research, coding, ​or weighing the pros and cons of a complicated decision. ​Keep in mind, more complex tasks require more computations, ​which could take the model longer to complete." - Google AI Fundamentals Course 04/2026
