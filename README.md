@@ -3,6 +3,8 @@ Vibe coded projects using GPT, Gemini, AIStudio, and my own two hands.
 
 NOTE: In order to avoid having some of my larger scale tools copycatted, I'm only uploading projects here that do not accept user payment for a generation or service. For this reason, most of these projects are tools I created to help me use AI to the best of its ability while keeping it's obvious constraints/limitations in mind. 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 README SECTION 1: Live Tools
 
 My live tool list is currently:
@@ -17,6 +19,8 @@ Put your URL in, get a full website health report back.
 3) Go Out Tool: https://bit.ly/goouttool
 
 Go out and touch grass, or do something even cooler.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 README SECTION 2: Known AI constraints, challenges, and limitations
 
@@ -129,4 +133,7 @@ Many in the community prefer the term "tinkerer" as it captures the playful, low
 
 Tools that currently exist, like braintrust above (and any of mine for that matter), are difficult to "trust" without being given a full scope of the maker type, hardware and software stack, AI model and tool stack, personal AI preferences and global settings, personal AI training for recent events, update logs, etc... which would ultamitely give away the "secret sauce" opening the door to copycats, direct rips, etc... 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 README SECTION 3: Live github tools made by me and my robot friends
+(COMING SOON)
