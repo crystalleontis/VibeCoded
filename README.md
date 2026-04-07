@@ -9,6 +9,7 @@ My live tool list is currently:
 1) OfferPath: https://bit.ly/offerpath
 
 Put your resume in, get jobs out. It's that easy.
+
 2) SitesScout: https://bit.ly/sitesscout
 
 Put your URL in, get a full website health report back. 
