@@ -43,6 +43,8 @@ AI hallucinations—where models confidently generate false, misleading, or nons
 
 AI may fail at complex reasoning or basic arithmetic, fabricating answers to math problems.
 
+"Sycophancy" and Misleading Conformity: Chatbots may agree with a user's incorrect assumptions to keep them engaged, sometimes confirming delusional beliefs or reinforcing negative emotions.
+
 Causes of AI Problems:
 
 -- Probabilistic Nature: LLMs predict the most likely next token, not the verified truth.
@@ -52,10 +54,6 @@ Causes of AI Problems:
 -- Overfitting: Memorizing training data prevents effective generalization.
 
 -- Failure in Retrieval Augmented Generation (RAG): When models pull from external sources, they may Misinterpret or fail to fact-check the data.
-
-- "Sycophancy" and Misleading Conformity:
-
-Chatbots may agree with a user's incorrect assumptions to keep them engaged, sometimes confirming delusional beliefs or reinforcing negative emotions.
 
 - The constraint of knowledge cutoff:
 
