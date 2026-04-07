@@ -10,15 +10,15 @@ README SECTION 1: Live Tools
 My live tool list is currently:
 1) OfferPath: https://bit.ly/offerpath
 
-Put your resume in, get jobs out. It's that easy.
+Put your resume in, get jobs out. It's that easy. Live AI job-matching app that turns a resume upload into matched opportunities and action-ready workflows.
 
 2) SitesScout: https://bit.ly/sitesscout
 
-Put your URL in, get a full website health report back. 
+Put your URL in, get a full website health report back. Live AI website-audit app that converts a URL into a structured health report with optimization guidance.
 
 3) Go Out Tool: https://bit.ly/goouttool
 
-Go out and touch grass, or do something even cooler.
+Go out and touch grass, or do something even cooler. Live AI outing planner that turns timing, transport, and preferences into practical recommendations with polished consumer UX.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
