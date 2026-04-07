@@ -41,6 +41,8 @@ AI tools often present falsehoods as facts, such as fabricating legal cases, new
 
 AI hallucinations—where models confidently generate false, misleading, or nonsensical information—stem from probabilistic training, data gaps, and over-optimization for engagement. Key issues include data bias (leading to prejudiced outputs), factual inaccuracies, and hallucinations in image generation and autonomous driving, which pose significant safety and misinformation risks. Lastly, bad actors can intentionally manipulate AI, causing it to misclassify information or generate incorrect outputs (e.g., in cyber security or image recognition). 
 
+AI may fail at complex reasoning or basic arithmetic, fabricating answers to math problems.
+
 Causes of AI Problems:
 
 -- Probabilistic Nature: LLMs predict the most likely next token, not the verified truth.
@@ -50,10 +52,6 @@ Causes of AI Problems:
 -- Overfitting: Memorizing training data prevents effective generalization.
 
 -- Failure in Retrieval Augmented Generation (RAG): When models pull from external sources, they may Misinterpret or fail to fact-check the data.
-
-- Data Fabrication:
-
-Logical and Mathematical Errors: AI may fail at complex reasoning or basic arithmetic, fabricating answers to math problems.
 
 - "Sycophancy" and Misleading Conformity:
 
