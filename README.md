@@ -27,6 +27,16 @@ README SECTION 2: Known AI constraints, challenges, and limitations
 Here are the constraints and limitations I've found so far:
 - Hallucinations & Confident Misinformation:
 
+Data bias can be a foundational challenge for AI. This can happen when the data used to train an AI model is skewed, incomplete, or reflects historical or societal biases. Because the model’s output is directed by its training data, it can sometimes reproduce existing biases in its response, like connecting specific activities with certain age groups. 
+
+Part of following a responsible AI approach is being aware that AI models may create stereotypes or bias in their outputs. For example, if you ask AI to generate an image of an office, it might consistently produce an image of a high-rise building. This may occur because its training data comes from urban business hubs. As a result, it may struggle to generate images of creative workspaces, home offices, or rural business settings. Your role is to guide the model toward a fair and impartial output. 
+
+To avoid unfair bias in outputs, you can use these techniques in your prompts:
+
+Be specific about the output you want: Add important context about your intended audience and their needs. You can also provide fair and balanced references for the model to follow. 
+
+Use follow-up prompts to correct outputs that seem biased or inaccurate: If AI provides a biased response, point out the stereotype when you iterate on your prompt and ask the model to correct the bias. 
+
 AI tools often present falsehoods as facts, such as fabricating legal cases, news events, or company policies. Models may hallucinate patterns or features that reflect prejudiced or unrepresentative data, leading to unfair discrimination. Models can misinterpret slang, idioms, or cultural references which can lead to nonsensical outputs.
 
 AI hallucinations—where models confidently generate false, misleading, or nonsensical information—stem from probabilistic training, data gaps, and over-optimization for engagement. Key issues include data bias (leading to prejudiced outputs), factual inaccuracies, and hallucinations in image generation and autonomous driving, which pose significant safety and misinformation risks. Lastly, bad actors can intentionally manipulate AI, causing it to misclassify information or generate incorrect outputs (e.g., in cyber security or image recognition). 
