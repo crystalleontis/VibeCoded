@@ -1,7 +1,11 @@
 # VibeCoded
 Vibe coded projects using GPT, Gemini, AIStudio, and my own two hands.
 
-In order to avoid having some of my larger scale tools copycatted, I'm only uploading projects here that do not accept user payment for a generation or service. For this reason, most of these projects are tools I created to help me use AI to the best of its ability while keeping it's obvious constraints/limitations in mind. Here are the constraints and limitations I've found so far, and the tools I've made to address these problems:
+In order to avoid having some of my larger scale tools copycatted, I'm only uploading projects here that do not accept user payment for a generation or service. For this reason, most of these projects are tools I created to help me use AI to the best of its ability while keeping it's obvious constraints/limitations in mind. 
+
+"AI is powerful, which is why it’s important to use it carefully and responsibly. That means being mindful of AI’s limitations and accounting for biases. The best results come from a combination of human ingenuity and AI’s capabilities. So keep asking insightful questions, refining your prompts, and above all, applying your critical-thinking skills to verify outputs before you use them. That way, you contribute to a future where AI serves everyone responsibly." - Google AI Fundamentals Course 04/2026
+
+Here are the constraints and limitations I've found so far, and the tools I've made to address these problems:
 
 1) The constraint of knowledge cutoff:
 
