@@ -4,6 +4,7 @@ Vibe coded projects using GPT, Gemini, AIStudio, and my own two hands.
 In order to avoid having some of my larger scale tools copycatted, I'm only uploading projects here that do not accept user payment for a generation or service. For this reason, most of these projects are tools I created to help me use AI to the best of its ability while keeping it's obvious constraints/limitations in mind. Here are the constraints and limitations I've found so far, and the tools I've made to address these problems:
 
 1) The constraint of knowledge cutoff:
+
 "Knowledge cutoff is the point in time when a model’s training data ends. This means the model lacks information on events, discoveries, or data that occurred after that date.
 
 You might notice that a model can provide information about very recent events. Some may do this by performing a live web search to find current information that they can supplement their answer with. It's helpful to think of this as the difference between what the model knows from its training versus what it can look up in the moment. The model's core knowledge is not continuously updated, which is why the concept of a knowledge cutoff remains a critical limitation to bear in mind.
@@ -21,6 +22,7 @@ Specify your timeframe: When asking about a topic that changes over time, state 
 Refine with follow-up prompts: If an answer seems outdated, like calling a product new when it is several years old, use a follow-up prompt to ask for more recent alternatives or clarification." - Google AI Fundamentals Course 04/2026
 
 2) Changes in AI’s performance over time:
+
 "Drift is the gradual decline in a model’s accuracy and relevance as the real world changes. You might observe drift in two ways:
 
 Factual drift: This is when AI becomes less accurate over time because of its knowledge cutoff. For example, an AI model's advice on current fashion trends may become less useful the further you get from its training date.
