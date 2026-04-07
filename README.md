@@ -113,7 +113,7 @@ AI sites currently exist (such as https://www.braintrust.dev/learn/ai-monitoring
 
 - Existing AI Tinkerer Tools Trust Hurdle:
 
-AI sites currently exist (such as [https://www.braintrust.dev/learn/ai-monitoring/](https://www.promptarmor.com/)) that provide live realtime solutions to these problems. 
+AI sites currently exist (such as https://www.promptarmor.com/) that provide live realtime solutions to these problems. 
 
 Someone who creates AI tools for fun is often called an AI tinkerer or enthusiast, representing a hands-on approach to exploring new technology. Other common terms include AI hobbyist, creator, or prompt engineer (if focused on prompt-based tools), with synthographer sometimes used for AI art creators. 
 
