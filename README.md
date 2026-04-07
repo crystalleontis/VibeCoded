@@ -38,7 +38,8 @@ Causes of AI Problems:
 -- Failure in Retrieval Augmented Generation (RAG): When models pull from external sources, they may Misinterpret or fail to fact-check the data.
 
 - Data Fabrication:
--- Logical and Mathematical Errors: AI may fail at complex reasoning or basic arithmetic, fabricating answers to math problems.
+
+Logical and Mathematical Errors: AI may fail at complex reasoning or basic arithmetic, fabricating answers to math problems.
 
 - "Sycophancy" and Misleading Conformity:
 
