@@ -16,7 +16,7 @@ Put your URL in, get a full website health report back.
 
 3) Go Out Tool: https://bit.ly/goouttool
 
-Go out and touch grass, or something even cooloer.
+Go out and touch grass, or do something even cooler.
 
 README SECTION 2: Known AI constraints, challenges, and limitations
 
