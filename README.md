@@ -135,5 +135,5 @@ Tools that currently exist, like braintrust above (and any of mine for that matt
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-README SECTION 3: Live github tools made by me and my robot friends
-(COMING SOON)
+README SECTION 3: Live github tool made by me and my robot friends that help solve the problems in section 2 above :)
+(COMING SOON) Better AI Prompt Maker - Lets users enter their prompt and gives them a prompt that will provide significantly better results as well as a breakdown of token usage and data requirements once the prompt is run. It checks for the best major model to use for the lowest cost and gives a side by side analysis. 
