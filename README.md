@@ -1,24 +1,33 @@
 # VibeCoded
 Vibe coded projects using GPT, Gemini, AIStudio, and my own two hands.
 
-NOTE: In order to avoid having some of my larger scale tools copycatted, I'm only uploading projects here that do not accept user payment for a generation or service. For this reason, most of these projects are tools I created to help me use AI to the best of its ability while keeping it's obvious constraints/limitations in mind. 
+NOTE: In order to avoid having some of my larger scale tools copycatted or having security vulnerabilities, I'm only uploading projects here that do not accept user payment for a generation or service. For this reason, most of these projects are tools I created to help me use AI to the best of its ability while keeping it's obvious constraints/limitations in mind. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 README SECTION 1: Live Tools
 
 My live tool list is currently:
-1) OfferPath: https://bit.ly/offerpath
 
-Put your resume in, get jobs out. It's that easy. Live AI job-matching app that turns a resume upload into matched opportunities and action-ready workflows.
+1) Go Out Tool: https://goouttool.com
 
-2) SitesScout: https://bit.ly/sitesscout
+Go out and touch grass, or do something even cooler. Live AI outing planner that turns timing, transport, and preferences into practical recommendations with polished consumer UX.
+
+2) SitesScout: https://sitesscout.com
 
 Put your URL in, get a full website health report back. Live AI website-audit app that converts a URL into a structured health report with optimization guidance.
 
-3) Go Out Tool: https://bit.ly/goouttool
+3) AI Prompt Refine: https://aipromptrefine.com
 
-Go out and touch grass, or do something even cooler. Live AI outing planner that turns timing, transport, and preferences into practical recommendations with polished consumer UX.
+Put your AI prompt into the box, and out pops a way more optimized version. Most all major LLMs covered (GPT, Claude, Llama, etc).
+
+4) GottaBinge: https://gottabinge.com
+
+Track your favorite TV shows and link up with friends to watch the latest episodes in sync.
+
+5) OfferPath: https://bit.ly/offerpath
+
+Put your resume in, get jobs out. It's that easy. Live AI job-matching app that turns a resume upload into matched opportunities and action-ready workflows.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -134,7 +143,3 @@ Many in the community prefer the term "tinkerer" as it captures the playful, low
 Tools that currently exist, like braintrust above (and any of mine for that matter), are difficult to "trust" without being given a full scope of the maker type, hardware and software stack, AI model and tool stack, personal AI preferences and global settings, personal AI training for recent events, update logs, etc... which would ultamitely give away the "secret sauce" opening the door to copycats, direct rips, etc... 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-README SECTION 3: Live github tool made by me and my robot friends that help solve the problems in section 2 above :)
-
-(COMING SOON) Better AI Prompt Maker - Lets users enter their prompt and gives them a prompt that will provide significantly better results as well as a breakdown of token usage and data requirements once the prompt is run. It checks for the best major model to use for the lowest cost and gives a side by side analysis. 
