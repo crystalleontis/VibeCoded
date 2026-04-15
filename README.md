@@ -1,5 +1,5 @@
 # VibeCoded
-Vibe coded projects using GPT, Gemini, AIStudio, and my own two hands.
+Vibe coded projects (mostly RAG Agentic Systems) using GPT, Gemini, AIStudio, and my own two hands.
 
 NOTE: In order to avoid having some of my larger scale tools copycatted or having security vulnerabilities, I'm only uploading projects here that do not accept user payment for a generation or service. For this reason, most of these projects are tools I created to help me use AI to the best of its ability while keeping it's obvious constraints/limitations in mind. 
 
